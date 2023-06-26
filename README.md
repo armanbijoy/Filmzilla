@@ -1,4 +1,4 @@
-![screencapture-localhost-3000-2023-06-26-15_52_36](https://github.com/armanbijoy/Filmzilla/assets/32562487/e5a1369b-2cd3-4f7b-998a-6016565436c2)# Output:
+# Output:
 
 ![screencapture-localhost-3000-2023-06-26-15_52_36](https://github.com/armanbijoy/Filmzilla/assets/32562487/538249e4-76e1-454c-bf6e-dd9a10c00c64)
 
